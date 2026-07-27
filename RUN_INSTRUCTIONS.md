@@ -14,7 +14,7 @@ install.packages(c(
 4. Run:
 
 ```r
-source("FinalCode_revised.R")
+source("FinalCode.R")
 ```
 
 The script creates an `outputs/` folder containing model metrics, predictions,
